@@ -16,7 +16,7 @@ function add(num1, num2){
 const result = add(15);
 console.log(result);
 
-const Object = {name:"Jahid Hasan", phone: 01743782856}
+const Object = {name:"Jahid Hasan", phone: 017437}
 console.log(Object.email);
 
 let name =undefined;
